@@ -1,0 +1,12 @@
+About these files:
+
+Both .zip files are bundled LaTeX projects. The "ex" extension is for the example used in the lesson for students to work from, while the "full" includes extra information plus solutions.
+
+The "Getting Started" pdf includes tips and resources for learning LaTeX.
+
+
+     To use the zip files:
+
+With Overleaf - just upload directly (do not unzip) as a new project, start editing with the "main" file
+
+With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
