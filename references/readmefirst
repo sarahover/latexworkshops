@@ -1,0 +1,15 @@
+About these files:
+
+All .zip files are bundled LaTeX projects:
+- xxx_example files are for the examples used in the lesson and for students to work from
+- "full" includes extra information plus solutions (CiteEx_full.zip)
+
+The "latexcitetips" pdf includes tips and resources for citations and references in LaTeX.
+
+
+
+     To use the zip files:
+
+With Overleaf - just upload directly (do not unzip) as a new project, start editing with the "main" file
+
+With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
