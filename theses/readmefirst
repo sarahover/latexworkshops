@@ -1,0 +1,13 @@
+About these files:
+
+- SampleProject_2021.zip contains a short project example (book template) to help learners understand how these document classes work in LaTeX.
+- The "LaTeXresources" pdf includes tips and resources for using LaTeX for larger projects such as Theses and Dissertations.
+
+Thesis Template LaTeX files can be found here: https://clarknet.eng.umd.edu/content/latex-thesis-template
+
+
+     To use the zip files:
+
+With Overleaf - just upload directly (do not unzip) as a new project, start editing with the "main" file
+
+With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
