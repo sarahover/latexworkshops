@@ -10,3 +10,6 @@ With Overleaf - just upload directly (do not unzip) as a new project, start edit
 With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
 
 2022+ recordings are located at: https://guides.lib.vt.edu/gradworkshops/past
+
+Fall 2022 recording note: The reason why the error persisted with demonstrating BibLaTeX was an issue with the reference
+- the Mendeley export had a formatting issue, which caused the reference data to not be read and induce an error
