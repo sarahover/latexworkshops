@@ -1,9 +1,16 @@
 About these files:
 
+2022+ files are for new workshops created at Virginia Tech
+2021 and earlier are from U. Maryland
+
+- GradSchoolETDWorkshop202211.zip contains a report example that is used to help students understand how the VT ETD template works and test
+content.
 - SampleProject_2021.zip contains a short project example (book template) to help learners understand how these document classes work in LaTeX.
 - The "LaTeXresources" pdf includes tips and resources for using LaTeX for larger projects such as Theses and Dissertations.
 
-Thesis Template LaTeX files can be found here: https://clarknet.eng.umd.edu/content/latex-thesis-template
+VT ETD Template can be found here: https://guides.lib.vt.edu/c.php?g=547528&p=3756998
+     (and on VT's Overleaf page: https://www.overleaf.com/edu/vtech)
+UMD Thesis Template LaTeX files can be found here: https://clarknet.eng.umd.edu/content/latex-thesis-template
 
 
      To use the zip files:
@@ -12,5 +19,5 @@ With Overleaf - just upload directly (do not unzip) as a new project, start edit
 
 With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
 
-
+For Fall 2022 recording go to: TBD
 For Fall 2021 recording go to: https://go.umd.edu/latex-for-theses
