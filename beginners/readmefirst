@@ -1,10 +1,10 @@
 About these files & folder(s):
 
-- "EarlierVersions" folder contains examples that are from non-current workshops
+- "earlier_versions" folder contains examples that are from non-current workshops
 - .zip files are complete bundled LaTeX projects (see below for use)
 
 The 2021 files include an "ex" extension for the example used in the lesson for students to work from, 
-while the "full" includes extra information plus solutions. 2022 & 2023 are full walkthroughs of the document produced in the workshop (includes further notes and comments).
+while the "full" includes extra information plus solutions. 2022 & 2023 update are full walkthroughs of the document produced in the workshop (includes further notes and comments).
 
 The "Getting Started" pdf includes tips and resources for learning LaTeX.
 
