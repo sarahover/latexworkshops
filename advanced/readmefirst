@@ -9,7 +9,10 @@ With Overleaf - just upload directly (do not unzip) as a new project, start edit
 
 With a Desktop distribution - unzip and open the "main" file for editing, keeping all files in the same location
 
-
+Accessibility - there are some known issues with how Adobe interprets LaTeX-produced documents.  For ETDs or 
+journal/conference articles, you will be told if there are any issues.  Be sure to check the LaTeX tagging 
+project for further information on packages that might have accessibility issues:
+https://latex3.github.io/tagging-project/tagging-status/
 
 About using citation managers with LaTeX:
 
